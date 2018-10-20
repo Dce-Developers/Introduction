@@ -8,7 +8,8 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 
 ## Guidelines-
 - Introduce Yourself in the profile section in aplhabetical order"Important".
-- In order to know how it works, kindly go to the folder name "githubIntro" and if still confused, contact us!! 
+- In order to know how it works, kindly go to the folder name "gitIntro" and if still confused, contact us!! 
+- for making you clear, git and github is same just the difference is, git is cli(command line interface) whereas github is gui(graphical user interface), you certainly have other options as well, such as bitbucket, gitlab, mercurial, bazaar, monotone and so on. But we will stick to it as it is widely used and is trending of all!!
 - edit this file my appending your profile in it, commit the change that you've made and boom you've pulled your first request!!
 
 # Profile:-
