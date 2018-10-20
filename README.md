@@ -22,7 +22,11 @@ In this ReadMe file, you will be adding your introduction and from here your jou
                        2. Writing
                        3. Watching Youtube
                        4. Playing Badminton :)
+                       
+                       
 -[Link to my github repository](https://www.github.com/shreyapy)
+
 -[Link to my Linkedin Profile](https://www.linkedin.com/in/shreya-pandey-4b7b6214b/)
-[![Video That everyone must watch](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-7TwMUyWSE0)
+
+-[![Video That everyone must watch](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-7TwMUyWSE0)
 > Never fits into routine ;)
