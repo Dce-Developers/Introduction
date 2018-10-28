@@ -32,12 +32,13 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 -[![Video That everyone must watch](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-7TwMUyWSE0)
 > Never fits into routine :)
 
+
 ### Paras Kumar
 
-- It's my pleasure to introduce myself. I'm # Paras Kumar from Delhi. 
+- It's my pleasure to introduce myself. I'm Paras Kumar from Delhi. 
 - I am 20 Years Old.
-- Currently, I'm pursing my # Secong year Engineering course from DCE GGN Haryana. 
-- I completed my 12th from # Kendriya Vidyalaya Bairagarh (Bhopal).
+- Currently, I'm pursing my Secong year Engineering course from DCE GGN Haryana. 
+- I completed my 12th from  Kendriya Vidyalaya Bairagarh (Bhopal).
 - My strengths are my attitude that I like to take challenges that I CAN do it, self motivated person, self disciplined I am a good team player as well as has a good ability to lead the team.
 
 - My weakness is I can't tolrete any leniency in work.
@@ -50,4 +51,5 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 - ✿ Branch :- I.T. 3rd Sem. (20468)
 - ✿ Facebook :- https://www.facebook.com/asli.iamPK
 - ✿ Webmail :- paras.20468@ggnindia.dronacharya.info
+- ✿ LinkedIN :- https://www.linkedin.com/in/iampk/
 - ✿ Whatsapp :- 8109852625
