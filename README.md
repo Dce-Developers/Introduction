@@ -37,7 +37,7 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 
 - It's my pleasure to introduce myself. I'm Paras Kumar from Delhi. 
 - I am 20 Years Old.
-- Currently, I'm pursing my Secong year Engineering course from DCE GGN Haryana. 
+- Currently, I'm pursing my Second year Engineering course from DCE GGN Haryana. 
 - I completed my 12th from  Kendriya Vidyalaya Bairagarh (Bhopal).
 - My strengths are my attitude that I like to take challenges that I CAN do it, self motivated person, self disciplined I am a good team player as well as has a good ability to lead the team.
 
@@ -52,4 +52,5 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 - ✿ Facebook :- https://www.facebook.com/asli.iamPK
 - ✿ Webmail :- paras.20468@ggnindia.dronacharya.info
 - ✿ LinkedIN :- https://www.linkedin.com/in/iampk/
+- ✿ GitHub :- https://github.com/iamParasKumar
 - ✿ Whatsapp :- 8109852625
