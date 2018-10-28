@@ -35,16 +35,15 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 
 ### Paras Kumar
 
-- It's my pleasure to introduce myself. I'm Paras Kumar from Delhi. 
-- I am 20 Years Old.
-- Currently, I'm pursing my Second year Engineering course from DCE GGN Haryana. 
+- It's my pleasure to introduce myself. I'm Paras Kumar from Delhi. I am 20 Years Old.
 - I completed my 12th from  Kendriya Vidyalaya Bairagarh (Bhopal).
-- My strengths are my attitude that I like to take challenges that I CAN do it, self motivated person, self disciplined I am a good team player as well as has a good ability to lead the team.
+- My strengths are my attitude that I like to take challenges, self motivated person, self disciplined ,I am a good team player as well as has a good ability to lead the team.
 
-- My weakness is I can't tolrete any leniency in work.
-- My short term goal is I want a such a platform where I can grow my career.
+- My weakness is that i am shy in nature.
+- My short term goal is that I want such a platform where I can grow my career.
 
  My Hobbies are :- Playing computer games , Surfing the Internet , Listening to music , travelling.
+ - I am interested in Python programing language.
 
  Connect With Me :-
 
