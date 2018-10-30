@@ -14,6 +14,23 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 
 # Profile:-
 
+### Ayush Bhan
+- A Computer Science & Information Technology Engineering student with not so much intro.
+- Wants a perfect corporate life of developer to explore the unexplored things.
+- Hungry for knowledge; knows C,C++, with some basics of java and basics of data analytics. currently learning android developement by   making various small projects.
+- Campus Ambassador of Coding Blocks.
+- Having  various hobbies love to do anytime like : 1. Exploring new things
+                                                    2. Cooking
+                                                    3. Playing Cricket
+                                                    4. Reading and writing litrature
+
+- Always out of the track... 😆😆😆
+
+[LinkedIn](https://www.linkedin.com/in/ayush-bhan-b18b6114b/)
+[Github](https://github.com/ayush-bhan)
+[Facebook](https://www.facebook.com/ayush.bhan.35)
+
+
 ### Shreya Kumari Pandey
 - I am an engineering student, Pursuing Computer Science & Information Technology as my major.
 - I am a Frontend developer and have worked with technologies such as HTML5, CSS3, JQuery, AJAX, JS, and Python(Django) still learning more.
